@@ -23,4 +23,4 @@ requests
 openpyxl
 pandas
 tqdm
-ipydatagrid
+panel
