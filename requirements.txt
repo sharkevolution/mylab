@@ -24,3 +24,5 @@ openpyxl
 pandas
 tqdm
 panel
+websockets
+nest-asyncio
