@@ -26,3 +26,4 @@ tqdm
 panel
 websockets
 nest-asyncio
+unsync
