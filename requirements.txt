@@ -24,4 +24,4 @@ openpyxl
 pandas
 tqdm
 panel
-websocket-client
+websocket==10.4
